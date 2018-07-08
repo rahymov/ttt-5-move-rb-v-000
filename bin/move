@@ -7,4 +7,4 @@ puts "Welcome to Tic Tac Toe!"
 puts "Where would you like to go?"
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 user_input = gets
-input_to_index
+input_to_index()
