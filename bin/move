@@ -9,4 +9,5 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 user_input = gets
 input_to_index(user_input)
 board = gets
+position = gets
 move(board, position, player)
