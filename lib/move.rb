@@ -13,5 +13,5 @@ end
 
 def move(board, position, player="X")
   board[0] = player
-  board[4] = player("O")
+  
 end
