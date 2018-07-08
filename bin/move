@@ -8,4 +8,5 @@ puts "Where would you like to go?"
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 user_input = gets
 input_to_index(user_input)
+board = gets
 move(board, position, player)
